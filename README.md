@@ -1,7 +1,7 @@
 Hi 👋 My name is Esma
 ========================
 
-Jr. Frontend Developer
+Jr. iOS Developer
 ----------------------
 
 * 🌍  I'm based in İzmir
