@@ -6,7 +6,7 @@ Jr. iOS Developer
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [ersooyesmaa@gmail.com](mailto:ersooyesmaa@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript, C#, Python, Swift
+* 🧠  I'm learning HTML, CSS, JavaScript, C#, Python, Mysql, ReactJS, Swift
 
 ### Skills
 
